@@ -1,3 +1,3 @@
-# Demo
+# C-Programs
 
-Some description!
+This is a repository to Track all the C-Programs for Practice.
